@@ -41,7 +41,7 @@ The other three integers are obtained the same way, then the surrounding
 integers are cropped from the final result.
 */
 
-// I couldn't done this exercise, so I got the answer from code360 on youtube.
+// I couldn't finish this exercise, so I got the answer from code360 on youtube.
 
 function boxBlur(img) {
     let imgArr = [];
